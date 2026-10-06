@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1788266225 source:c:\users\owner\onedrive\attachments\sir salazar\activity2\act2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<limits>
+
